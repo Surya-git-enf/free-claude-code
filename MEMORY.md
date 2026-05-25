@@ -1,0 +1,1 @@
+- [Conversation persistence preference](user_conversation_persistence.md) — User wants conversations saved automatically between sessions

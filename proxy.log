@@ -1,0 +1,19 @@
+INFO:     Started server process [3801]
+INFO:     Waiting for application startup.
+INFO:     Admin UI: http://127.0.0.1:8082/admin (local-only)
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8082 (Press CTRL+C to quit)
+INFO:     127.0.0.1:52730 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34588 - "HEAD / HTTP/1.1" 204 No Content
+INFO:     127.0.0.1:40824 - "POST /v1/messages?beta=true HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40824 - "POST /v1/messages?beta=true HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40830 - "POST /v1/messages?beta=true HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40824 - "POST /v1/messages?beta=true HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40824 - "POST /v1/messages?beta=true HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58840 - "POST /v1/messages?beta=true HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58840 - "POST /v1/messages?beta=true HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58840 - "POST /v1/messages?beta=true HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54948 - "POST /v1/messages?beta=true HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54954 - "POST /v1/messages?beta=true HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54948 - "POST /v1/messages?beta=true HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54954 - "POST /v1/messages?beta=true HTTP/1.1" 200 OK
