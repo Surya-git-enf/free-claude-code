@@ -16,5 +16,3 @@ llama_cache
 .smoke-results
 .vscode
 server.*
-# Allow tracking of skills directory (for Claude Code skills)
-!.claude/skills/
