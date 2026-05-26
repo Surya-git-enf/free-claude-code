@@ -42,6 +42,6 @@ fcc-server >proxy.log 2>&1 &
 # Wait for server to start
 echo "Waiting for server to start..."
 sleep 2
-# Launch claude
+# Launch claude (always)
 echo "Launching Claude Code..."
 exec claude "$@"
